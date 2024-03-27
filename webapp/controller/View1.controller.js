@@ -12,7 +12,7 @@ sap.ui.define([
             onInit: function () {
                 let aDropdown = [
                     {
-                        "templeteid": "345289",
+                        "templeteid": "TEM1101",
                         "templetetitle": "EDD",
 
                         "assessmenttype": "Standard Prequalification",
@@ -22,7 +22,7 @@ sap.ui.define([
 
                     },
                     {
-                        "templeteid": "562234",
+                        "templeteid": "TEM1102",
                         "templetetitle": "EDD",
 
                         "assessmenttype": "Simple Prequalification",
@@ -32,7 +32,7 @@ sap.ui.define([
 
                     },
                     {
-                        "templeteid": "156224",
+                        "templeteid": "TEM1103",
                         "templetetitle": "Integrity Check",
 
                         "assessmenttype": "Integrity Screening",
@@ -42,12 +42,30 @@ sap.ui.define([
 
                     },
                     {
-                        "templeteid": "356234",
+                        "templeteid": "TEM1104",
                         "templetetitle": "SUP12345",
                         "assessmenttype": "Vendor Feedback",
                         "active": "true",
                         "createdon": "27-03-2024",
                         "createdby": "james"
+
+                    },
+                    {
+                        "templeteid": "TEM1105",
+                        "templetetitle": "SUP00112",
+                        "assessmenttype": "Contractor Performance Assessment Process",
+                        "active": "true",
+                        "createdon": "25-03-2024",
+                        "createdby": "Jacob"
+
+                    },
+                    {
+                        "templeteid": "TEM1106",
+                        "templetetitle": "SUP11232",
+                        "assessmenttype": "Enhance due diligence Assessment",
+                        "active": "true",
+                        "createdon": "23-03-2024",
+                        "createdby": "Alex"
 
                     },
                 ];

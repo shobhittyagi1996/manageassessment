@@ -19,7 +19,7 @@
                         <HBox
                             id="_IDGenHBox1"
                             alignItems="Center"
-                            width="50%"
+                            width="auto"
                             justifyContent="SpaceAround"
                         >
                             

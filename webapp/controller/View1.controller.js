@@ -18,7 +18,7 @@ sap.ui.define([
                         "assessmenttype": "Standard Prequalification",
                         "active": "true",
                         "createdon": "22-03-2024",
-                        "createdby": "alex"
+                        "createdby": "danara"
 
                     },
                     {
@@ -28,7 +28,7 @@ sap.ui.define([
                         "assessmenttype": "Simple Prequalification",
                         "active": "true",
                         "createdon": "25-03-2024",
-                        "createdby": "Austin"
+                        "createdby": "danara"
 
                     },
                     {
@@ -38,7 +38,7 @@ sap.ui.define([
                         "assessmenttype": "Integrity Screening",
                         "active": "true",
                         "createdon": "27-03-2024",
-                        "createdby": "john"
+                        "createdby": "danara"
 
                     },
                     {
@@ -47,7 +47,7 @@ sap.ui.define([
                         "assessmenttype": "Vendor Feedback",
                         "active": "true",
                         "createdon": "27-03-2024",
-                        "createdby": "james"
+                        "createdby": "danara"
 
                     },
                     {
@@ -56,7 +56,7 @@ sap.ui.define([
                         "assessmenttype": "Contractor Performance Assessment Process",
                         "active": "true",
                         "createdon": "25-03-2024",
-                        "createdby": "Jacob"
+                        "createdby": "danara"
 
                     },
                     {
@@ -65,7 +65,7 @@ sap.ui.define([
                         "assessmenttype": "Enhance due diligence Assessment",
                         "active": "true",
                         "createdon": "23-03-2024",
-                        "createdby": "Alex"
+                        "createdby": "danara"
 
                     },
                 ];
